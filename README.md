@@ -57,6 +57,25 @@ A beautiful, functional movie discovery application built with Flutter. Browse t
         flutter run
         ```
 
+5.  **Build for Release**:
+    *   **Windows**:
+        ```bash
+        flutter build windows
+        ```
+    *   **Web**:
+        ```bash
+        flutter build web
+        ```
+    *   **Android (APK)**:
+        ```bash
+        flutter build apk
+        ```
+
+6.  **Run Tests**:
+    ```bash
+    flutter test
+    ```
+
 ## 🏗️ Project Structure
 
 ```
